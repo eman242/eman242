@@ -2,7 +2,7 @@
 
 ### Full-Stack Software Engineer | Databases & AI Applications
 
-I'm a Computer Science student at the University of Arizona, graduating in December 2026. I build full-stack applications with a focus on database design, backend development, and integrating AI into practical, user-focused solutions.
+I'm a Computer Science student at the University of Arizona. I build full-stack applications with a focus on database design, backend development, and integrating AI into practical, user-focused solutions.
 
 ## 💼 Open to Opportunities
 
